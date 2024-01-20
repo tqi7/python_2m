@@ -11,6 +11,7 @@
 <font size="7">  
 في هذا المشروع سوف نقوم بتشغيل كود بلغة البرمجة بايثون
 </font> 
+
 ```
 for i in range(6):
     for j in range(i):
